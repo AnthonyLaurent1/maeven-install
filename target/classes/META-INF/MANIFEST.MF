@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: anthony
+Build-Jdk: 11.0.16
+Main-Class: com.mycompany.app.java.App
+Author: Anthony Laurent
+Build-Time: 2022-09-07T17:16:34Z
+Created-By: Maven Integration for Eclipse
+Title: my-app
+Vendor: Anthony
+Version: 1.0
+
